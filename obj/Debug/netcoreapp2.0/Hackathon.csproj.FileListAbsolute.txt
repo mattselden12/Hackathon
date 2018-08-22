@@ -1,0 +1,11 @@
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.deps.json
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.runtimeconfig.json
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.runtimeconfig.dev.json
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.dll
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\bin\Debug\netcoreapp2.0\Hackathon.pdb
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.csprojResolveAssemblyReference.cache
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.AssemblyInfo.cs
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.dll
+C:\Users\matth\Desktop\Coding Dojo\c#_stack\Hackathon\obj\Debug\netcoreapp2.0\Hackathon.pdb
